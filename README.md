@@ -2,7 +2,7 @@
 
 This project contains a comprehensive Jupyter Notebook demonstrating the exploding gradient problem in Deep Recurrent Neural Networks (RNNs) and how to mitigate it using gradient norm clipping and LSTMs.
 
-## 📦 Requirements
+##  Requirements
 
 To run this project, you will need the following Python packages:
 - `torch`
@@ -14,7 +14,7 @@ To run this project, you will need the following Python packages:
 - `jupyter`
 - `ipykernel`
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Create and activate a virtual environment:**
    ```bash
