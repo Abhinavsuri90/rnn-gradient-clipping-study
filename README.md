@@ -1,4 +1,4 @@
-# Assignment 26: Gradient Clipping in Deep Networks
+# Gradient Clipping in Deep Networks
 
 This project contains a comprehensive Jupyter Notebook demonstrating the exploding gradient problem in Deep Recurrent Neural Networks (RNNs) and how to mitigate it using gradient norm clipping and LSTMs.
 
